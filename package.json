@@ -1,0 +1,19 @@
+{
+  "name": "crud-node-restful-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/./bin/mocha --report spec",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "body-parser": "1.18.1",
+    "express": "4.15.4",
+    "mongoose": "4.11.12",
+    "nodemon": "^1.17.4",
+    "request": "2.82.0"
+  },
+  "author": "Danilo Agostinho",
+  "license": "ISC"
+}
