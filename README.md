@@ -26,6 +26,10 @@ mongo
 mongod
 ```
 
+#### rodar api
+
+node server.js
+
 #### Acessar o CRUD
 
 o CRUD estara disponivel na URL: http://localhost:8000/api embora eu aconselhe usar o [Postman] para as requisicoes.
